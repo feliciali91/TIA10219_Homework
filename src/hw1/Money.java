@@ -1,6 +1,6 @@
 package hw1;
 
-public class FutureValue {
+public class Money {
 
 	/* 5_複利計算 */
 

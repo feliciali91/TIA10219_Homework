@@ -1,6 +1,6 @@
 package hw1;
 
-public class Explanation {
+public class Explain {
 
 	/* 6_運算結果分別解釋 */
 

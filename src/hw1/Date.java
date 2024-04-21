@@ -1,6 +1,6 @@
 package hw1;
 
-public class Day {
+public class Date {
 	
 	/* 3_計算幾天幾小時幾分幾秒 */
 	
