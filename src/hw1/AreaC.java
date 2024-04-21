@@ -1,6 +1,6 @@
 package hw1;
 
-public class area {
+public class AreaC {
 
 	/* 4_計算圓面積與圓周長 */
 	

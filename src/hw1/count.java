@@ -1,6 +1,6 @@
 package hw1;
 
-public class count {
+public class Count {
 
 	/* 1_計算和與積 */
 	

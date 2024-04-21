@@ -1,6 +1,6 @@
 package hw1;
 
-public class eggs {
+public class Eggs {
 	
 	/* 2_計算雞蛋幾打幾顆 */
 	
